@@ -5,27 +5,27 @@ Este repositório tem como objetivo consolidar e organizar os cursos e bootcamps
 
 📁 Estrutura do Repositório
 
-aws-sagemaker-canvas-estoque
+**aws-sagemaker-canvas-estoque**
 
 Projeto focado na criação de modelos preditivos com o Amazon SageMaker Canvas, utilizando um cenário de previsão de estoque. Sem necessidade de código, utilizando IA low-code/no-code.
 
-dio-criar-sistema-bancario
+**dio-criar-sistema-bancario**
 
 Desenvolvimento de um sistema bancário em Python como parte de um desafio de código da DIO. Envolve criação de contas, depósitos, saques e extrato bancário, com aplicação de boas práticas de programação.
 
-simple-package-template
+**simple-package-template**
 
 Template básico de um pacote Python reutilizável, com estrutura modular, setup e documentação inicial. Ideal para quem deseja aprender a empacotar projetos Python.
 
-dio-prompt-challenger-personal-ia
+**dio-prompt-challenger-personal-ia**
 
 Projeto de IA com foco em engenharia de prompt, utilizando ferramentas como o ChatGPT para construir uma IA pessoal baseada em comandos e interações orientadas.
 
-asw-analise-avancada-de-imagens-e-texto-com-ia
+**asw-analise-avancada-de-imagens-e-texto-com-ia**
 
 Exploração de serviços AWS para análise de imagens e texto, utilizando inteligência artificial (como Amazon Rekognition e Comprehend). Projeto hands-on de análise avançada de dados não estruturados.
 
-dio-powerbi
+**dio-powerbi**
 
 Projeto voltado para análise de dados com Power BI, envolvendo importação de dados, criação de dashboards interativos e aplicação de conceitos de Business Intelligence.
 
