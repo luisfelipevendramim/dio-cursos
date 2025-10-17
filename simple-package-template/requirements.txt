@@ -1,0 +1,9 @@
+
+## Uso
+
+```python
+from meu_pacote.modulo1 import funcao1
+from meu_pacote.modulo2 import funcao2
+
+funcao1()
+funcao2()
