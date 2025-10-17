@@ -4,6 +4,7 @@ Este repositório tem como objetivo consolidar e organizar os cursos e bootcamps
 . Cada pasta contém projetos práticos desenvolvidos durante os treinamentos, abordando diferentes tecnologias e áreas do conhecimento em tecnologia.
 
 📁 Estrutura do Repositório
+
 aws-sagemaker-canvas-estoque
 
 Projeto focado na criação de modelos preditivos com o Amazon SageMaker Canvas, utilizando um cenário de previsão de estoque. Sem necessidade de código, utilizando IA low-code/no-code.
